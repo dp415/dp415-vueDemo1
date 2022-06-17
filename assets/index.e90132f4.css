@@ -1,0 +1,1 @@
+.title{color:red}.done{text-decoration:line-through}body{background-color:#262626;color:#fff}#navBar{list-style-type:none;overflow:hidden;background-color:#333;padding:0;margin:0;width:100%}#navBar li{float:left;display:block;padding:16px;cursor:pointer;font-weight:700}#navBar li:hover{background-color:#a9a9a9;color:#000}.tab-button.active{background:#e0e0e0;color:#000}
